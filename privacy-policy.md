@@ -1,49 +1,63 @@
-Politique de confidentialité – Skyblock Data Tracker Dev
+# Politique de confidentialité  
+## Skyblock Data Tracker Dev
 
-Dernière mise à jour : [16/12/2025]
+**Dernière mise à jour : 16 décembre 2025**
 
-L’application Skyblock Data Tracker Dev respecte la vie privée de ses utilisateurs.
-Cette politique explique quelles données sont traitées et comment elles sont utilisées.
+L’application **Skyblock Data Tracker Dev** respecte la vie privée de ses utilisateurs.  
+Cette politique de confidentialité explique quelles données sont traitées et comment elles sont utilisées.
 
-1. Données collectées
+---
 
-L’application ne collecte, ne stocke et ne partage aucune donnée personnelle identifiable.
+## 1. Données collectées
 
-Les données affichées dans l’application proviennent exclusivement de l’API publique Hypixel et concernent :
+L’application **ne collecte, ne stocke et ne partage aucune donnée personnelle identifiable**.
 
-des statistiques de jeu publiques
+Les données affichées dans l’application proviennent exclusivement de l’**API publique Hypixel** et concernent notamment :
 
-des informations liées aux comptes Minecraft (pseudo, statistiques de jeu)
+- des statistiques de jeu publiques
+- des informations liées aux comptes Minecraft (pseudo, statistiques de jeu)
 
-Ces données sont publiquement accessibles et ne permettent pas d’identifier une personne réelle.
+Ces données sont **publiquement accessibles** et ne permettent pas d’identifier une personne réelle.
 
-2. Utilisation des données
+---
+
+## 2. Utilisation des données
 
 Les données sont utilisées uniquement pour :
 
-afficher des statistiques de jeu
+- afficher des statistiques de jeu
+- fournir les fonctionnalités principales de l’application
 
-fournir les fonctionnalités de l’application
+Aucune donnée n’est utilisée à des fins publicitaires, de suivi ou de profilage.
 
-Aucune donnée n’est utilisée à des fins publicitaires ou de suivi.
+---
 
-3. Stockage des données
+## 3. Stockage des données
 
-L’application ne stocke aucune donnée personnelle sur ses serveurs.
+L’application **ne stocke aucune donnée personnelle** sur ses serveurs ou sur des serveurs tiers.
 
-4. Partage des données
+---
+
+## 4. Partage des données
 
 Aucune donnée n’est partagée avec des tiers.
 
-5. Enfants
+---
 
-L’application ne s’adresse pas spécifiquement aux enfants de moins de 13 ans et ne collecte aucune donnée personnelle concernant des enfants.
+## 5. Enfants
 
-6. Sécurité
+L’application ne s’adresse pas spécifiquement aux enfants de moins de 13 ans et **ne collecte aucune donnée personnelle concernant des enfants**.
 
-L’application ne collecte aucune donnée sensible nécessitant des mesures de sécurité spécifiques.
+---
 
-7. Contact
+## 6. Sécurité
+
+L’application ne traite aucune donnée sensible nécessitant des mesures de sécurité particulières.
+
+---
+
+## 7. Contact
 
 Pour toute question concernant cette politique de confidentialité, vous pouvez nous contacter à l’adresse suivante :
-[xplony.dev@gmail.com]
+
+📧 **xplony.dev@gmail.com**
